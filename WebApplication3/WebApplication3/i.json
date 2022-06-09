@@ -1,0 +1,12 @@
+{
+    "catalogue": [{
+            "cd": {
+                "ARTIST": "BobDylan",
+                "COUNTRY": "USA",
+                "PRICE": "10.90",
+                "YEAR": "1985",
+                "TITLE": "EmpireBurlesque",
+                "COMPANY": "Columbia"
+            }
+        }]
+}
